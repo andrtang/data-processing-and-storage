@@ -13,7 +13,7 @@
 - Python 3.7 or later.
 
 ## Installation
-1. Clone this repository:
+1. Clone and open this repository:
    ```bash
    git clone https://github.com/andrtang/data-processing-and-storage.git
    cd data-processing-and-storage
@@ -23,10 +23,10 @@
    python --version
    ```
 
-## How to Run
-1. Create a file with a main function (or write a main function from the InMemoryDB.py file)
-2. If you are creating a main function in a separate file, be sure to include `import InMemoryDB` at the top of your file.
-3. The functions in the class do not print anything. If you are expecting an output for .get(), be sure to print it in a print statement.
+## How to Run (and a note about input)
+- Create a file with a main function (or write a main function inside the InMemoryDB.py file)
+- If you are creating a main function in a separate file, be sure to include `import InMemoryDB` at the top of your file.
+- The functions in the class do not print anything. If you are expecting an output for .get(), be sure to print it in a print statement.
 
 ### Example Interaction
 Below is an example of a main function to demonstrate how the `InMemoryDB` behaves, which is taken from Fig 2 in the assignment:
