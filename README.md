@@ -16,7 +16,7 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/andrtang/data-processing-and-storage.git
-   cd <repository-folder>
+   cd data-processing-and-storage
    ```
 2. Ensure Python is installed:
    ```bash
