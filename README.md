@@ -27,6 +27,7 @@
 - Create a file with a main function (or write a main function inside the InMemoryDB.py file)
 - If you are creating a main function in a separate file, be sure to include `import InMemoryDB` at the top of your file.
 - The functions in the class do not print anything. If you are expecting an output for .get(), be sure to print it in a print statement.
+- When errors are expected, they should be commented out since they will terminate the program. The example below comments out instances where errors are expected.
 
 ### Example Interaction
 Below is an example of a main function to demonstrate how the `InMemoryDB` behaves, which is taken from Fig 2 in the assignment:
